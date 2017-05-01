@@ -151,6 +151,14 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 /* Bloc text custom styling */
 
+#bloc-1 h3{
+	font-size: 30px;
+	line-height: 30px;
+}
+#bloc-1 p{
+	font-size: 14px;
+	line-height: 14px;
+}
 
 /* = NavBar
 -------------------------------------------------------------- */
