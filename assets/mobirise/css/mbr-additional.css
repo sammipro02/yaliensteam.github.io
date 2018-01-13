@@ -1761,7 +1761,10 @@ body {
   background-color: #efefef;
 }
 .cid-qGDzt6NH9b .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
+}
+.cid-qGDzt6NH9b H2 {
+  color: #232323;
 }
 .cid-qGDbekF01a {
   padding-top: 60px;
@@ -1769,7 +1772,7 @@ body {
   background-color: #f1c232;
 }
 .cid-qGDbekF01a .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-qGDfCa2niH {
   padding-top: 60px;
@@ -1808,6 +1811,9 @@ body {
 }
 .cid-qGDfCa2niH .card .panel-body {
   color: #767676;
+}
+.cid-qGDfCa2niH .panel-text {
+  color: #232323;
 }
 .cid-qGDFyxPhJc {
   padding-top: 30px;
@@ -2295,88 +2301,44 @@ body {
 .cid-qGD5ZTAYrF .dropdown-item:hover {
   color: #55b4d4 !important;
 }
-.cid-qGDmINfzYx {
+.cid-qGEmnsXQau {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-qGDmINfzYx .mbr-section-subtitle {
+.cid-qGEmnsXQau .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
 }
-.cid-qGDmINfzYx .container-table {
-  margin: 0 auto;
+.cid-qGEmnsXQau H2 {
+  text-align: center;
 }
-.cid-qGDmINfzYx .scroll {
-  overflow-x: auto;
-  padding: 0;
+.cid-qGEl4owOAv {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-qGDmINfzYx .dataTables_wrapper {
-  display: block;
+.cid-qGEl4owOAv .mbr-section-subtitle {
+  color: #2e2e2e;
 }
-.cid-qGDmINfzYx .dataTables_wrapper .search {
-  margin-bottom: .5rem;
+.cid-qGEl4owOAv H2 {
+  text-align: center;
 }
-.cid-qGDmINfzYx .dataTables_wrapper .table {
-  overflow-x: auto;
+.cid-qGEl4owOAv .mbr-section-subtitle DIV {
+  color: #2e2e2e;
 }
-.cid-qGDmINfzYx table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
+.cid-qGEpZj1qCc {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #efefef;
 }
-.cid-qGDmINfzYx table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
+.cid-qGEl4UP6vi {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-qGDmINfzYx table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-qGDmINfzYx table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-qGDmINfzYx table.table {
-  background: #ffffff;
-}
-.cid-qGDmINfzYx .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-qGDmINfzYx .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-qGDmINfzYx .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-qGDmINfzYx .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-qGDmINfzYx .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-qGDmINfzYx .dataTables_filter {
-    text-align: center;
-  }
-  .cid-qGDmINfzYx .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-qGDmINfzYx .mbr-section-title {
-  text-align: left;
+.cid-qGEl4UP6vi .mbr-text,
+.cid-qGEl4UP6vi blockquote {
+  color: #767676;
 }
 .cid-qGE9yM7Ksa {
   padding-top: 30px;
@@ -2857,6 +2819,9 @@ body {
 .cid-qGDqKlbe4O blockquote {
   color: #767676;
 }
+.cid-qGDqKlbe4O .mbr-text P {
+  color: #232323;
+}
 .cid-qGE5xKtlfl {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -3335,6 +3300,9 @@ body {
 .cid-qGDwgj2Jd1 .mbr-text,
 .cid-qGDwgj2Jd1 blockquote {
   color: #767676;
+}
+.cid-qGDwgj2Jd1 .mbr-text P {
+  color: #232323;
 }
 .cid-qGDx6hxM1J {
   padding-top: 0px;
@@ -3886,6 +3854,9 @@ body {
 .cid-qGEavyzthB blockquote {
   color: #767676;
 }
+.cid-qGEavyzthB .mbr-text P {
+  color: #232323;
+}
 .cid-qGEbrHXCw6 {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -3951,6 +3922,7 @@ body {
 }
 .cid-qGEbxn6uK8 .mbr-text P {
   text-align: left;
+  color: #232323;
 }
 .cid-qGEbyaGGMB {
   padding-top: 45px;
@@ -3974,6 +3946,7 @@ body {
 }
 .cid-qGEbyEChEz .mbr-text P {
   text-align: left;
+  color: #232323;
 }
 .cid-qGEbzf6YcS {
   padding-top: 30px;
@@ -3986,6 +3959,7 @@ body {
 }
 .cid-qGEbzf6YcS .mbr-text P {
   text-align: left;
+  color: #232323;
 }
 .cid-qGE5qVbdhu {
   padding-top: 30px;
