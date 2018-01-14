@@ -2781,6 +2781,27 @@ body {
 .cid-qGDqesXyRz H2 {
   text-align: left;
 }
+.cid-qGFATZomUu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #efefef;
+}
+.cid-qGFATZomUu .image-block {
+  margin: auto;
+}
+.cid-qGFATZomUu figcaption {
+  position: relative;
+}
+.cid-qGFATZomUu figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qGFATZomUu .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qGDqKlbe4O {
   padding-top: 30px;
   padding-bottom: 30px;
