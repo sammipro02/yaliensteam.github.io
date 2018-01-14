@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The YALiEns Robotics Team Website",
-    "currentPage": "team_resources.html",
+    "currentPage": "about_us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/untitled-128x59-1.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 104,
+    "uniqCompNum": 106,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -577,7 +577,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#767676\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><i>\"Competition for the sake not of destroying one another, but for the sake of bettering and improving both competitors as a result of the competition.\"</i><br><br>~ Woodie Flowers</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#767676\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><i>\"Competition for the sake not of destroying one another, but for the sake of bettering and improving both competitors as a result of the competition.\"</i><br><br>~ Woodie Flowers</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qGDFyxPhJc",
           "_anchor": "content9-t",
           "_protectedParams": [],
@@ -675,7 +675,7 @@
       "settings": {
         "meta_descr": "How to get in touch with us",
         "title": "Contact us",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1254,7 +1254,7 @@
       "settings": {
         "meta_descr": "About our team",
         "title": "About us",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1696,7 +1696,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                <b> We are the YALiEns!</b>&nbsp;Our team was started by Matthew Brady, a former math teacher at Y.A.L.E. School. It is now ran by Mrs. Murray, a science teacher at our school. Our team is open to our school's middle and high school students.&nbsp;</p><p>Our rookie year was 2012, where we had our first competitions. Since then, new members have joined, and little knowledge of that year is known. We do know that our team has grown and will continue to grow. The knowledge that we have learned will be passed down to the new members, and they will be able to keep our team living on.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>\n                <b> We are the YALiEns!</b>&nbsp;Our team was started by Mr. Brady, a former math teacher at Y.A.L.E. School. It is now ran by Mrs. Murray, a science teacher at our school. Our team is open to our school's middle and high school students.&nbsp;</p><p>Our rookie year was 2012, where we had our first competitions. Since then, new members have joined, and little knowledge of that year is known. We do know that our team has grown and will continue to grow. The knowledge that we have learned will be passed down to the new members, and they will be able to keep our team living on.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qGDqKlbe4O",
           "_anchor": "content1-l",
           "_protectedParams": [],
@@ -1794,7 +1794,7 @@
       "settings": {
         "meta_descr": "Resources available to current or potential sponsors",
         "title": "Sponsors",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2437,7 +2437,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Members",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3174,7 +3174,7 @@
       "settings": {
         "meta_descr": "YALiEns Blog",
         "title": "Blog",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3727,7 +3727,7 @@
       "settings": {
         "meta_descr": "Parents/Guardians",
         "title": "Parents/Guardians",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
