@@ -2784,7 +2784,7 @@ body {
 .cid-qGFATZomUu {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: #efefef;
+  background: #0b5394;
 }
 .cid-qGFATZomUu .image-block {
   margin: auto;
@@ -2801,6 +2801,9 @@ body {
   .cid-qGFATZomUu .image-block {
     width: 100% !important;
   }
+}
+.cid-qGFATZomUu DIV {
+  color: #f1c232;
 }
 .cid-qGDqKlbe4O {
   padding-top: 30px;
